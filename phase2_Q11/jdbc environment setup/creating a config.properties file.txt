@@ -1,0 +1,5 @@
+es (3 sloc)  70 Bytes
+   
+url=jdbc:mysql://localhost:3306/ecommerce
+userid=root
+password=master
